@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "phksvBsFukzqB57sxEdNil9as1Rvb2qCU9vPRn40e9U=",
+  "Source": "InventoryScanner",
+  "BasePath": "_content/InventoryScanner",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

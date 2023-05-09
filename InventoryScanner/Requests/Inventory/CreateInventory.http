@@ -1,0 +1,7 @@
+POST http://localhost:5067/inventory
+Content-Type:  application/json
+
+{
+    "name": "Test1",
+    "date" : "sdasd"
+}

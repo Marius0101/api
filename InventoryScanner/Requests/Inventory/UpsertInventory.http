@@ -1,0 +1,8 @@
+@id = 00000000-0000-0000-0000-000000000000
+PUT http://localhost:5067/inventory/{{id}}
+Content-Type:  application/json
+
+{
+    "name": "Test1",
+    "date" : "sdasd"
+}

@@ -1,0 +1,12 @@
+C:\Users\mariu\Documents\lucrare licenta\proiect\api\InventoryScanner\InventoryScanner.Inventory\bin\Debug\net7.0\InventoryScanner.Inventory.deps.json
+C:\Users\mariu\Documents\lucrare licenta\proiect\api\InventoryScanner\InventoryScanner.Inventory\bin\Debug\net7.0\InventoryScanner.Inventory.dll
+C:\Users\mariu\Documents\lucrare licenta\proiect\api\InventoryScanner\InventoryScanner.Inventory\bin\Debug\net7.0\InventoryScanner.Inventory.pdb
+C:\Users\mariu\Documents\lucrare licenta\proiect\api\InventoryScanner\InventoryScanner.Inventory\obj\Debug\net7.0\InventoryScanner.Inventory.csproj.AssemblyReference.cache
+C:\Users\mariu\Documents\lucrare licenta\proiect\api\InventoryScanner\InventoryScanner.Inventory\obj\Debug\net7.0\InventoryScanner.Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\Documents\lucrare licenta\proiect\api\InventoryScanner\InventoryScanner.Inventory\obj\Debug\net7.0\InventoryScanner.Inventory.AssemblyInfoInputs.cache
+C:\Users\mariu\Documents\lucrare licenta\proiect\api\InventoryScanner\InventoryScanner.Inventory\obj\Debug\net7.0\InventoryScanner.Inventory.AssemblyInfo.cs
+C:\Users\mariu\Documents\lucrare licenta\proiect\api\InventoryScanner\InventoryScanner.Inventory\obj\Debug\net7.0\InventoryScanner.Inventory.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\lucrare licenta\proiect\api\InventoryScanner\InventoryScanner.Inventory\obj\Debug\net7.0\InventoryScanner.Inventory.dll
+C:\Users\mariu\Documents\lucrare licenta\proiect\api\InventoryScanner\InventoryScanner.Inventory\obj\Debug\net7.0\refint\InventoryScanner.Inventory.dll
+C:\Users\mariu\Documents\lucrare licenta\proiect\api\InventoryScanner\InventoryScanner.Inventory\obj\Debug\net7.0\InventoryScanner.Inventory.pdb
+C:\Users\mariu\Documents\lucrare licenta\proiect\api\InventoryScanner\InventoryScanner.Inventory\obj\Debug\net7.0\ref\InventoryScanner.Inventory.dll
